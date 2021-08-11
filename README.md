@@ -13,7 +13,7 @@ Step 1: Run the below commands to install dependencies
   driver = webdriver.Chrome(executable_path=r"C:\Users\HP\Desktop\Projects\Auto-Accept\chromedriver.exe")<br>
   Change the path in executable path depending on the location of your project
   
-Step 3: Run the project by the below command
+Step 3: Run the project by the below command <br>
   streamlit run app.py
   
   
